@@ -20,16 +20,16 @@
 2. Training Program name.
 3. Description
 
-# Previous Experience:
+## Previous Experience:
 1. previous Job
 2. Description
 
-# Project:
+## Project:
 1. Project name.
 2. Project Details
 3. Github Link/ Other Demo Link
 
-# Contact:
+## Contact:
 1. Contact Info
 
 ![photo_6154652448740984711_y](https://github.com/user-attachments/assets/dac6cb0a-15fc-4de4-8b21-3516cd0a62e6)
