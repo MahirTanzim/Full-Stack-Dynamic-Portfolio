@@ -35,3 +35,7 @@ Route::post('/register', [AuthenticationController::class, 'register'])->name('r
 
 
 Route::get('/admin/dashboard', [DashboardController::class,"index"])->name("dashboard");
+
+Route::middleware(['auth'])->group(function () {
+    Route::get('/admin/dashboard', [DashboardController::class, 'index'])->name('dashboard');
+});
