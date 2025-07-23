@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>THis is Dashboard</h1>
+    <div>
+        @include()
+    </div>
 </body>
 </html>
